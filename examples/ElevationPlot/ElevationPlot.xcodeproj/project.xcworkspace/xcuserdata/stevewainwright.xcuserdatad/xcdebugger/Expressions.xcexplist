@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.fill(for:isoCurve:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "-[CGPathImage dealloc]:CGPathImage.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pixelData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CPTContourPlot drawFillBetweenClosedIsoCurves:contours:usedExtraLineStripLists:leftEdge:bottomEdge:rightEdge:topEdge:]:CPTContourPlot.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UIColor colorWithCGColor: theFill.cgColor]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CPTContourPlot renderAsVectorInContext:]:CPTContourPlot.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

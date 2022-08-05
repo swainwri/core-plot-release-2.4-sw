@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "08314B4A-C428-4D33-BA71-488BFAA8DA7C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "AED50878-F762-439B-A3C3-D44949B8DCD5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "malloc_error_break"
+            moduleName = "libsystem_c.dylib">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BA28BA4-E8C8-4B21-9610-36A699B526DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../framework/Source/CPTContourPlot.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2505"
+            endingLineNumber = "2505"
+            landmarkName = "-drawFillBetweenBorderIsoCurves:contours:borderStrips:borderIndices:usedExtraLineStripLists:leftEdge:bottomEdge:rightEdge:topEdge:outerBoundaryLimitsCGPaths:noOuterBoundaryLimitsCGPaths:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C38C5E0-1E7C-423C-8524-A31121BDDE95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../framework/Source/CPTContourPlot.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2509"
+            endingLineNumber = "2509"
+            landmarkName = "-drawFillBetweenBorderIsoCurves:contours:borderStrips:borderIndices:usedExtraLineStripLists:leftEdge:bottomEdge:rightEdge:topEdge:outerBoundaryLimitsCGPaths:noOuterBoundaryLimitsCGPaths:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02AF5118-BC77-4E2A-BFDC-D80A8F4D561E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../framework/Source/CPTContourPlot.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1826"
+            endingLineNumber = "1826"
+            landmarkName = "-renderAsVectorInContext:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "02AF5118-BC77-4E2A-BFDC-D80A8F4D561E - 88f8996fa44062c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CPTContourPlot renderAsVectorInContext:]"
+                  moduleName = "CorePlot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stevewainwright/Documents/A%20iOS/Common/core-plot-release-2.4/framework/Source/CPTContourPlot.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1794"
+                  endingLineNumber = "1794"
+                  offsetFromSymbolStart = "11736">
+               </Location>
+               <Location
+                  uuid = "02AF5118-BC77-4E2A-BFDC-D80A8F4D561E - 88f8996fa44062c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CPTContourPlot renderAsVectorInContext:]"
+                  moduleName = "CorePlot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stevewainwright/Documents/A%20iOS/Common/core-plot-release-2.4/framework/Source/CPTContourPlot.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1794"
+                  endingLineNumber = "1794"
+                  offsetFromSymbolStart = "11556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70EE251D-60FB-447A-81E6-94A946B80CBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../framework/Source/CPTContourPlot.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2463"
+            endingLineNumber = "2463"
+            landmarkName = "-drawFillBetweenBorderIsoCurves:contours:borderStrips:borderIndices:usedExtraLineStripLists:leftEdge:bottomEdge:rightEdge:topEdge:outerBoundaryLimitsCGPaths:noOuterBoundaryLimitsCGPaths:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9C5080C-7D6E-47B8-9FD5-C37638B08B4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../framework/Source/CPTContourPlot.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1904"
+            endingLineNumber = "1904"
+            landmarkName = "-renderAsVectorInContext:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "736234AD-5BFE-4E7E-9A15-8950A5745ABE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../framework/Source/CPTContourPlot.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2763"
+            endingLineNumber = "2763"
+            landmarkName = "-collectStripsForBorders:usedExtraLineStripLists:context:contours:leftEdge:bottomEdge:rightEdge:topEdge:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "736234AD-5BFE-4E7E-9A15-8950A5745ABE - eb24008da59903b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CPTContourPlot collectStripsForBorders:usedExtraLineStripLists:context:contours:leftEdge:bottomEdge:rightEdge:topEdge:]"
+                  moduleName = "CorePlot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stevewainwright/Documents/A%20iOS/Common/core-plot-release-2.4/framework/Source/CPTContourPlot.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2679"
+                  endingLineNumber = "2679"
+                  offsetFromSymbolStart = "883">
+               </Location>
+               <Location
+                  uuid = "736234AD-5BFE-4E7E-9A15-8950A5745ABE - eb24008da5990258"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CPTContourPlot collectStripsForBorders:usedExtraLineStripLists:context:contours:leftEdge:bottomEdge:rightEdge:topEdge:]"
+                  moduleName = "CorePlot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stevewainwright/Documents/A%20iOS/Common/core-plot-release-2.4/framework/Source/CPTContourPlot.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2678"
+                  endingLineNumber = "2678"
+                  offsetFromSymbolStart = "618">
+               </Location>
+               <Location
+                  uuid = "736234AD-5BFE-4E7E-9A15-8950A5745ABE - eb24008da5990096"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CPTContourPlot collectStripsForBorders:usedExtraLineStripLists:context:contours:leftEdge:bottomEdge:rightEdge:topEdge:]"
+                  moduleName = "CorePlot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stevewainwright/Documents/A%20iOS/Common/core-plot-release-2.4/framework/Source/CPTContourPlot.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2688"
+                  endingLineNumber = "2688"
+                  offsetFromSymbolStart = "563">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE5BFFA0-C6D8-46C4-AA07-205365748A8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../framework/Source/CPTContourPlot.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1925"
+            endingLineNumber = "1925"
+            landmarkName = "-renderAsVectorInContext:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B422308-8F59-473D-9444-D3081CBB468E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../framework/Source/CPTContourPlot.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1550"
+            endingLineNumber = "1550"
+            landmarkName = "-renderAsVectorInContext:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "766F1A8E-7FD1-4722-95E2-D591AECBC643"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ElevationPlot/ContourManagerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A38CA0C-EC28-4D55-8E34-50513A83F9AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ElevationPlot/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1193"
+            endingLineNumber = "1193"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E312704E-A5DF-4C7B-861F-0F1E7AB8C634"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../framework/Source/CPTContourPlot.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2676"
+            endingLineNumber = "2676"
+            landmarkName = "-drawFillBetweenBorderIsoCurves:contours:borderStrips:borderIndices:usedExtraLineStripLists:leftEdge:bottomEdge:rightEdge:topEdge:outerBoundaryLimitsCGPaths:noOuterBoundaryLimitsCGPaths:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5824E8F0-DC74-4D3C-9DD3-DCE6613B3E3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../framework/Source/CPTContourPlot.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2187"
+            endingLineNumber = "2187"
+            landmarkName = "-drawFillBetweenClosedIsoCurves:contours:usedExtraLineStripLists:leftEdge:bottomEdge:rightEdge:topEdge:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
